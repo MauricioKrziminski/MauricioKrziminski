@@ -1,5 +1,5 @@
 <h1 align="center">Hi Mauricio Krziminski</h1>
-<h3 align="center">I am a Web Developer passionate about technology and in constant search of knowledge</h3>
+<h3 align="center">Software Engineering student in constant learning, passionate about new knowledge</h3>
 
 - 🔭 Junior Web Developer looking for expertise
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maur%C3%ADcio-krziminski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joãovitormiranda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maur%C3%ADcio-krziminski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MauricioKrziminski" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,12 +20,11 @@
   <img align="center" alt="Mauricio-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Mauricio-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Mauricio-CC" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Mauricio-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Mauricio-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 <br>
 
 <div></br>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=MauricioKrziminski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioKrziminski&layout=compact&langs_count=16&theme=tokyonight" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=MauricioKrziminski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioKrziminski&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
