@@ -3,7 +3,7 @@
 
 - 🔭 Junior Web Developer looking for expertise
 
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS
 
 - 📫 How to reach me: Mauricio.krziminskii@gmail.com
 
