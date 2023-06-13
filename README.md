@@ -23,7 +23,9 @@
   <img align="center" alt="Mauricio-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Mauricio-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
+<br>
 
-
-
-
+<div></br>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=MauricioKrziminski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioKrziminski&layout=compact&langs_count=16&theme=tokyonight" />
+</div>
