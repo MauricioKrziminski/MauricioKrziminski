@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Java, JavaScript, HTML, CSS, React.js, React Native.
 
-- 📫 How to reach me: Mauricio.krziminskii@gmail.com
+- 📫 How to reach me: maumausk2015@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
